@@ -1,0 +1,28 @@
+Lista de mods 1.12.2:
+
+Todos os links foram retirados de = https://www.curseforge.com/minecraft/mc-mods/
+
+O padrão do arquivo está organizado da seguinte forma:
+NOME DO MOD - VERSÂO DO MOD - LINK DE DOWNLOAD DIRETO
+
+Foi evitado ao maximo colocar mods em BETA na lista,a preferencia foi colocar os mods com a maior quantidade de downloads!
+
+I:
+
+Industrialcraft - v2-2.8.170-ex112 - https://media.forgecdn.net/files/2746/892/industrialcraft-2-2.8.170-ex112.jar
+Industrialcraft(BETA) - v2-2.8.111-ex112 - https://media.forgecdn.net/files/2669/612/industrialcraft-2-2.8.111-ex112.jar
+Industrialcraft - v2-2.8.73-ex112 - https://media.forgecdn.net/files/2547/175/industrialcraft-2-2.8.73-ex112.jar
+
+J:
+
+Jei - v1.12.2-4.15.0.296 - https://media.forgecdn.net/files/2988/828/jei_1.12.2-4.15.0.296.jar
+Jei - v1.12.2-4.16.1.301 - https://media.forgecdn.net/files/3040/523/jei_1.12.2-4.16.1.301.jar
+Journeymap - v1.12.2-5.7.1 - https://media.forgecdn.net/files/2916/2/journeymap-1.12.2-5.7.1.jar
+Journeymap - v1.12.2-5.5.2 - https://media.forgecdn.net/files/2498/312/journeymap-1.12.2-5.5.2.jar
+
+X:
+
+Xaero's Minimap - v1.18.1 - https://media.forgecdn.net/files/2788/77/Xaeros_Minimap_1.18.1_Forge_1.12.jar
+Xaero's Minimap - v1.15.8 - https://media.forgecdn.net/files/2629/820/Xaeros_Minimap_1.15.8_Forge_1.12.jar
+
+

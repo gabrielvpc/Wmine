@@ -1,0 +1,14 @@
+Forges
+
+Todos os links foram retirados de = https://files.minecraftforge.net/net/minecraftforge/forge/
+
+O padrão do arquivo está organizado da seguinte forma:
+NOME DO MOD - VERSÂO DO MOD - LINK DE DOWNLOAD DIRETO
+
+1.12.2:
+
+Forge-1.12.2(LATEST/RECOMMENDED) - 14.23.5.2855 - https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2855/forge-1.12.2-14.23.5.2855-installer.jar
+
+1.7.10:
+
+Forge-1.7.10(LATEST/RECOMMENDED) - 10.13.4.1614 - https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-installer.jar

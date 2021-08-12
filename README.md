@@ -2,8 +2,7 @@ Script criado para agilizar o download de mods para o minecraft
 
 Todos os links de download foram retirados de:
 
-https://www.curseforge.com/minecraft/mc-mods/
-https://files.minecraftforge.net/net/minecraftforge/forge/
+https://www.curseforge.com/minecraft/mc-mods/ - https://files.minecraftforge.net/net/minecraftforge/forge/
 
 Certifique-se de não ter mais nenhum arquivo .jar no local onde o programa estiver, caso contrário ele tambem será movido para a pasta arquivos_baixados
 

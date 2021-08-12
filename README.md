@@ -1,4 +1,4 @@
-Script criado para agilizar o download de mods para o minecraft
+Script criado com o intuito de agilizar o download de mods para o minecraft
 
 Todos os links de download foram retirados de:
 
